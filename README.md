@@ -268,9 +268,6 @@ EV-charging-recommendation/
 
 <div align="center">
 
-**Made with ⚡ by [Vibhor Joshi](https://github.com/vibhorjoshi)**  
-M.Tech CSE · IIIT Guwahati · Research: Edge AI, LLM Quantisation, RL
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:96c93d,100:00b09b&height=100&section=footer" width="100%"/>
 
 </div>
